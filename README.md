@@ -1,1 +1,1 @@
-# spine-hero-webgl
+# glaidator
